@@ -893,6 +893,10 @@ a:hover {
   line-height: 1.6;
 }
 
+.testimonial-box .title-box {
+  margin-bottom: 0rem;
+}
+
 @media (min-width: 768px) {
   .testimonial-box .description {
     padding: 0 5rem;
